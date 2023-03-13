@@ -1,0 +1,25 @@
+.main{
+    font-size: 64px;
+    color: rgb(3, 31, 31);
+    background-color: aquamarine;
+}
+#main{
+    width: auto;
+    height: 600px;
+    
+}
+h1{
+    font-size: 128px;
+    background-color: aquamarine;
+}
+h2{
+    font-size: 64px;
+    background-color: aquamarine;
+}
+h3{
+    font-size: 32px;
+    background-color: aquamarine;
+}
+.list {
+    font-size: 32px;
+}
